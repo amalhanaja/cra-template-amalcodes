@@ -1,0 +1,17 @@
+{
+  "name": "cra-template-amalcodes",
+  "version": "1.0.0",
+  "description": "Amalcodes template create-react-app",
+  "main": "template.json",
+  "repository": "git+https://github.com/amalhanaja/cra-template-amalcodes.git",
+  "author": "Alfian Akmal Hanantio",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "stylelint",
+    "eslint",
+    "styled-components",
+    "amalcodes"
+  ],
+  "homepage": "https://github.com/amalhanaja/cra-template-amalcodes#readme"
+}

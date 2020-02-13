@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.1",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "~3.7.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/styled-components": "^4.4.3",
+    "@typescript-eslint/eslint-plugin": "^2.19.2",
+    "@typescript-eslint/parser": "^2.19.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-config-react-app": "^5.2.0",
+    "eslint-import-resolver-typescript": "^2.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-json": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "prettier": "^1.19.1",
+    "stylelint": "^13.1.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.9.0"
+  },
+  "scripts": {
+    "lint": "yarn run lint:es && yarn run lint:style",
+    "lint:es": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "lint:es:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
+    "lint:style": "stylelint './src/**/*.{js,jsx,ts,tsx}'",
+    "prettify": "prettier --write"
+  }
+}
