@@ -9,13 +9,13 @@
 ### yarn
 
 ```bash
-yarn create react-app  --template amalcodes
+yarn create react-app <PROJECT_NAME>  --template amalcodes
 ```
 
 ### npx
 
 ```bash
-npx create-react-app  --template amalcodes
+npx create-react-app <PROJECT_NAME> --template amalcodes
 ```
 
 ---
