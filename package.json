@@ -11,7 +11,8 @@
     "stylelint",
     "eslint",
     "styled-components",
-    "amalcodes"
+    "amalcodes",
+    "template"
   ],
   "homepage": "https://github.com/amalhanaja/cra-template-amalcodes#readme",
   "files": [
