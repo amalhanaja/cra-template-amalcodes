@@ -23,7 +23,7 @@ npx create-react-app <PROJECT_NAME> --template amalcodes
 ## Includes
 
 - [typescript](https://github.com/microsoft/TypeScript)
-- [react-testing-library][react-testing-library]
+- [react-testing-library](https://github.com/testing-library/react-testing-library)
 - [stylelint](https://github.com/stylelint/stylelint)
 - [eslint](https://github.com/eslint/eslint)
 - [prettier](https://github.com/prettier/prettier)
