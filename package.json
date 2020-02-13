@@ -13,5 +13,12 @@
     "styled-components",
     "amalcodes"
   ],
-  "homepage": "https://github.com/amalhanaja/cra-template-amalcodes#readme"
+  "homepage": "https://github.com/amalhanaja/cra-template-amalcodes#readme",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "engines": {
+    "node": ">=8.10"
+  }
 }
