@@ -1,6 +1,6 @@
 {
   "name": "cra-template-amalcodes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Amalcodes template create-react-app",
   "main": "template.json",
   "repository": "git+https://github.com/amalhanaja/cra-template-amalcodes.git",
